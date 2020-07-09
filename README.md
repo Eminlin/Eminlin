@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
   
-![visitor](https://api.emin.ink/visitor-badge/index.php?pageid=emin)
+![visitor](https://api.emin.ink/visitor-badge/index.php?pageid=eminlin)
