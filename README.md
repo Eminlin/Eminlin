@@ -10,7 +10,7 @@
   <a href="https://telegram.me/Eminlin" align="left">
     <img alt="Eminlin | Telegram" width="24px" src="https://gist.githubusercontent.com/Eminlin/0b02287053fa9e9fcc0825932b2ac8ec/raw/bdc75789eb30263654aaed5882939e2cce909cd6/telegram.svg">
   </a>
-  <a href="https://telegram.me/Eminlin" align="left">
+  <a href="https://www.douban.com/people/Eminlin/" align="left">
     <img alt="Eminlin | Douban" width="24px" src="https://gist.githubusercontent.com/Eminlin/0b02287053fa9e9fcc0825932b2ac8ec/raw/bf7b34bca7091f53b7d4a03e9549ada7cb8c5be3/douban.svg">
   </a>
 </div>
