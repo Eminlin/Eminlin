@@ -34,5 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->  
-  
-![visitor](https://api.emin.ink/visitor-badge/index.php?pageid=eminlin)
+<div>
+  <img alt="Eminlin | visitor" src="https://api.emin.ink/visitor-badge/index.php?pageid=eminlin" align="right">
+</div>
