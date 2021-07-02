@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <div>
-  <a href="https://twitter.com/eminlym" target="_blank">
+<!--   <a href="https://twitter.com/eminlym" target="_blank">
     <img alt="Eminlin | Twitter"  width="28px"  src="https://gist.githubusercontent.com/Eminlin/0b02287053fa9e9fcc0825932b2ac8ec/raw/29fdbc2e7456111ed62ea41093ed590a9b00ae07/twitter.svg">
-  </a>
+  </a> -->
   <a href="#好胆你麦造#5688" align="left" target="_blank">
     <img alt="Eminlin | OverWatch" width="24px" src="https://gist.githubusercontent.com/Eminlin/0b02287053fa9e9fcc0825932b2ac8ec/raw/15cce00915a177c18a1b6ed88c9f0616d57e6e22/owerwatch.svg">
   </a>
