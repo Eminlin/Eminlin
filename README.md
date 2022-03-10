@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 <div>
-  <img alt="Eminlin | visitor" src="https://api.emin.ink/visitor-badge/index.php?pageid=eminlin" align="right">
+  <img alt="Eminlin | visitor" src="https://www.eminlin.com/visitor-badge/index.php?pageid=eminlin" align="right">
 </div>
