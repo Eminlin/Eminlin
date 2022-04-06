@@ -19,6 +19,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [使用机器学习 YOLOv5 识别小青柑秸秆](https://www.eminlin.com/797.html)
+- [在厦门的 Go/GoLang 面试情况](https://www.eminlin.com/795.html)
+- [聊聊HamZone社区的后端设计](https://www.eminlin.com/790.html)
+- [我的二〇二一，Hoo! Tiger!](https://www.eminlin.com/788.html)
+- [Emin@科技X：我爱玩无线电，因为里面有素未谋面的欢喜](https://www.eminlin.com/786.html)
 <!-- BLOG-POST-LIST:END -->  
 
 
