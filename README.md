@@ -19,6 +19,7 @@
 
 ### :pencil2: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Inner Peace](https://www.eminlin.com/799.html)
 - [使用机器学习 YOLOv5 识别小青柑秸秆](https://www.eminlin.com/797.html)
 - [在厦门的 Go/GoLang 面试情况](https://www.eminlin.com/795.html)
 - [聊聊HamZone社区的后端设计](https://www.eminlin.com/790.html)
