@@ -17,7 +17,7 @@
 
 <br>
 
-### :pencil2: Latest Blog posts
+### :pencil2: Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
 - [Inner Peace](https://www.eminlin.com/799.html)
 - [使用机器学习 YOLOv5 识别小青柑秸秆](https://www.eminlin.com/797.html)
