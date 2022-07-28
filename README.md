@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi there 
+
+- 🔭 I’m currently working as Backend Developer
+- 🌱 I’m currently learning GoLang / React / Better Code / Piano
+- 👯 I’m looking to collaborate on amateur radio or interesting things
+
+###  😀 Social Account
 
 <div>
 <!--   <a href="https://twitter.com/eminlym" target="_blank">
