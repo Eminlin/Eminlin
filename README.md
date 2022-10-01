@@ -25,12 +25,12 @@
 
 ### :pencil2: Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [HamZone 业余无线电社区已上线](https://www.eminlin.com/801.html)
 - [CRAC “5.5中国业余无线电节” 空中通联活动](https://www.eminlin.com/800.html)
 - [Inner Peace](https://www.eminlin.com/799.html)
 - [使用机器学习 YOLOv5 识别小青柑秸秆](https://www.eminlin.com/797.html)
 - [在厦门的 Go/GoLang 面试情况](https://www.eminlin.com/795.html)
 - [聊聊HamZone社区的后端设计](https://www.eminlin.com/790.html)
-- [我的二〇二一，Hoo! Tiger!](https://www.eminlin.com/788.html)
 <!-- BLOG-POST-LIST:END -->  
 
 
