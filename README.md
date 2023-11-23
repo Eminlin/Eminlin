@@ -25,12 +25,12 @@
 
 ### :pencil2: Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [使用机器学习 YOLOv5 识别小青柑秸秆（二）](https://www.eminlin.com/836.html)
+- [Flarum 社区插件开发 – 生成空白插件（一）](https://www.eminlin.com/832.html)
+- [HamCQ 站点服务器迁移完成](https://www.eminlin.com/831.html)
+- [有关 HamZone 社区更名为 「HamCQ 社区」公告](https://www.eminlin.com/830.html)
 - [Go 工程化项目结构思考](https://www.eminlin.com/824.html)
 - [PostgreSQL 慢查询引起的 CPU 占用过高](https://www.eminlin.com/814.html)
-- [使用 pprof 排查 Go 消费 RabbitMQ 引起的内存占用过高](https://www.eminlin.com/804.html)
-- [Go Iris 11.1 框架 Websocket 错误处理优化](https://www.eminlin.com/802.html)
-- [HamZone 业余无线电社区已上线](https://www.eminlin.com/801.html)
-- [CRAC “5.5中国业余无线电节” 空中通联活动](https://www.eminlin.com/800.html)
 <!-- BLOG-POST-LIST:END -->  
 
 
